@@ -1,6 +1,6 @@
 # Dynamic Slideshow
 
-![](C:\Users\Techcet.Techcet-PC\Development\howto\slideshow\slidshow-example.jpg)
+![](https://raw.githubusercontent.com/surajitbasak109/Dynamic-Slideshow/master/slidshow-example.jpg)
 
 ## Usage
 
