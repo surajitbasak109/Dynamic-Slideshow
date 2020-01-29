@@ -1,5 +1,7 @@
 # Dynamic Slideshow
 
+![](C:\Users\Techcet.Techcet-PC\Development\howto\slideshow\slidshow-example.jpg)
+
 ## Usage
 
 ```js
